@@ -1,0 +1,12 @@
+{
+    "name": "torokp/autoload_test_psr4",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Peter Torok",
+            "email": "torokp@progterv.info"
+        }
+    ],
+    "require": {}
+}
